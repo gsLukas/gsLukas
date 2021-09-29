@@ -1,21 +1,7 @@
-### Hi there 👋
+### Hi I'm Lukas Sales 👋
 
-<!--
-**gsLukas/gsLukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- <div>
+<div>
   <a href=" ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsLukas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsLukas&layout=compact&langs_count=7&theme=tokyonight"/>
+   
+![My Video](https://user-images.githubusercontent.com/91630131/135340400-5feace68-2f63-411b-8be9-a1e6858dc7be.gif)
