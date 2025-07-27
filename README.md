@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Lukas Sales</h1>
 <p align="center">
-  🚀 Dev focado em Lua, FiveM, automações e aplicações backend.
+  🚀 Dev focado em Lua, FiveM, automações.
 </p>
 
 ---
