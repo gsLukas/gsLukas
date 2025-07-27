@@ -2,7 +2,8 @@
 
 <div>
   <a href=" ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsLukas&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsLukas&layout=compact&langs_count=7&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+ </div>
   
    ##
  <h3 align="">Did you have a project?
