@@ -33,17 +33,8 @@
   - Corrida com queima de largada, XP, HUD e efeitos visuais.
 - 🧾 **Painel Administrativo QBCore**
   - Admin UI com NUI, leaderboard, histórico e conquistas.
-- 📦 **Bot de automação (Discord/Python)**
-  - Automação de logs, mensagens e integrações com APIs.
-
----
-
-### 🏆 Conquistas
-
-- 🌟 +100 contribuições no último mês
-- 💬 Projetos em múltiplas linguagens (Lua, Python, JS)
-- 🧪 Foco em performance, código limpo e UX
-
+- 🧰 **FormatWordFile (Python)**
+  - Automatiza formatação de arquivos.
 ---
 
 ### 📬 Entre em contato
