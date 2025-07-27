@@ -49,7 +49,7 @@
 ### 📬 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasgabriel)  
-📧 lukassales.dev@gmail.com
+📧 lukas.gabriel@tecnoti.com
 
 ---
 
