@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Lukas Sales</h1>
+<h1 align="center">👋 I'm Lukas Gabriel 👋 [APRENDIZ]</h1>
 <p align="center">
-  🚀 Dev focado em Lua, FiveM, automações.
+  🚀 Dev em Lua, python, FiveM, automações. 🚀 
 </p>
 
 ---
@@ -30,10 +30,8 @@
 
 - 🔥 **Sistema de Corrida (FiveM)**
   - Corrida com queima de largada, XP, HUD e efeitos visuais.
-- 🧾 **Painel Administrativo QBCore**
-  - Admin UI com NUI, leaderboard, histórico e conquistas.
 - 🧰 **FormatWordFile (Python)**
-  - Automatiza formatação de arquivos.
+  - Automatiza formatação de arquivos para brute force.
 ---
 
 ### 📬 Entre em contato
@@ -44,5 +42,4 @@
 ---
 
 ### ⚡ Fun Fact
-
 > "A melhor corrida é aquela onde o código cruza a linha de chegada antes do bug." 🏁
